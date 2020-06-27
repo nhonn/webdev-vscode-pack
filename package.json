@@ -1,0 +1,29 @@
+{
+    "name": "webdev-vscode-pack",
+    "displayName": "webdev-vscode-pack",
+    "publisher": "nhonn",
+    "description": "My favorite extensions",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.46.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [ 
+        "byi8220.indented-block-highlighting", 
+        "CoenraadS.bracket-pair-colorizer-2", 
+        "dsznajder.es7-react-js-snippets", 
+        "EliverLara.andromeda", 
+        "formulahendry.auto-rename-tag", 
+        "ms-vscode-remote.remote-wsl", 
+        "OnlyLys.leaper", 
+        "PKief.material-icon-theme", 
+        "wayou.vscode-todo-highlight",
+        "christian-kohler.path-intellisense",
+        "visualstudioexptteam.vscodeintellicode",
+        "esbenp.prettier-vscode",
+        "dbaeumer.vscode-eslint",
+        "ritwickdey.liveserver"
+    ]
+}
