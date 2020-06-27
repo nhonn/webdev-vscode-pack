@@ -16,4 +16,4 @@ The pack includes:
 - [Andromeda Theme](https://marketplace.visualstudio.com/items?itemName=EliverLara.andromeda) 
 - [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme) 
 ### Icon
-[React icon by Icons8](https://icons8.com/icon/Vra58PN2KmI5/react)
+[React icon by Icons8](https://icons8.com/icon/8g6WJkjf0vaP/react)
